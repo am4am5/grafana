@@ -1,0 +1,1 @@
+{namespace=~"aismv|kube-system"} !~ "kube-probe|table_manager"
